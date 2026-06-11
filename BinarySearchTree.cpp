@@ -128,3 +128,6 @@ class BinaryTree
         }
     }
 };
+
+int main()
+{
